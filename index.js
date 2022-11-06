@@ -20,5 +20,5 @@ const page = (
    </div>
 )
 
-
 ReactDOM.render(page, document.querySelector('#root'))
+// document.querySelector('#root').append(JSON.stringify(page))
