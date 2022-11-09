@@ -1,3 +1,3 @@
-# React Course - Beginner's Tutorial for React JavaScript Library [2022]
+# React Course - c [2022]
 
     
