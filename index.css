@@ -2,8 +2,23 @@
 
 #root {
     padding-left: 38px;
+    padding-right: 38px;
 }
 
 h1 {
     font-family: Roboto, sans-serif;
+}
+
+.nav-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-img {
+    width: 60px;
+    height: 60px;
+}
+
+.nave-items {
+    list-style: none;
 }

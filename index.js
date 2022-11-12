@@ -4,14 +4,19 @@
 function Header() {
     return (
         <header>
-            <nav>
-                <img src='test-image.png' width='50px'></img>
+            <nav className='nav-line'>
+                <img className='nav-img' src='test-image.png'></img>
+                <ul className='nave-items'>
+                    <li>Practing</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                </ul>
             </nav>
         </header>
     )
 }
 
-function Content() {
+function MainContent() {
     return (
         <content>
             <h1>Hello</h1>
@@ -37,7 +42,7 @@ function Temp() {
     return (
         <div>
             <Header />
-            <Content />
+            <MainContent />
             <Footer />
         </div>
     )
