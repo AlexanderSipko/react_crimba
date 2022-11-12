@@ -4,7 +4,7 @@ function Footer() {
     // wrote the bottom 
     return (
         <footer>
-            <smal>@2022 Ziroll development. All rights reserved</smal>
+            <smal className="footer">@2022 Ziroll development. All rights reserved</smal>
         </footer>
     )
 }

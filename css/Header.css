@@ -1,14 +1,4 @@
 
-
-#root {
-    padding-left: 38px;
-    padding-right: 38px;
-}
-
-h1 {
-    font-family: Roboto, sans-serif;
-}
-
 .nav-img {
     width: 60px;
     height: 60px;
@@ -28,6 +18,4 @@ h1 {
 .nave-items > li {
     padding: 5px;
 }
-
-
 
